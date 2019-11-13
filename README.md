@@ -15,6 +15,8 @@ For the wallet pourpose use **Metamask** (chrome extension or website)<br>
 
 
 # Steps
+here you just need to copy the command line codes which are written down here and you are good to go <br><br>
+
 <ol>
 <li>Install Git<br>
 <li>Install NodeJS (including NPM) on Your Computer<br>
