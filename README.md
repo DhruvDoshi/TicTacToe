@@ -1,6 +1,7 @@
 # TicTacToe
 TicTacToe game made with javascript and payments on top of Ethereum 
 Made for the **Internship Pourpose**
+Last Update Date : 13/11/2019
 
 
 # About the Game
